@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
-	Edited by SplaciK for RAXOGA
+	Edited by Marek for Matgielski
 -->
 <html>
 	<head>
-		<title>RAXOGA</title>
+		<title>Matgielski</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -21,30 +21,16 @@
 							 <img src="/raxoga/images/raxoga2nobg.png" alt="LOGO" width="150" height="150"> 
 						<div class="content">
 							<div class="inner">
-								<h1>RAXOGA.NET</h1>
-								<p>Internetowa Społeczność Graczy. Gildie, Drużyny i Serwery.</p>
+								<h1>Matgielski.pl</h1>
+								<p>Strona służąca nauczaniu online</p>
 							</div>
 						</div>
 						<nav>
 							<ul>
-								<li><a href="https://facebook.com/raxoga">FACEBOOK</a></li>
-								<li><a href="https://www.facebook.com/groups/raxoga">FACEBOOK GROUP</a></li>
-								<li><a href="https://discord.gg/Kfug9GePRZ">DISCORD</a></li>
-								<li><a href="https://steamcommunity.com/groups/RAXOGA">STEAM GROUP</a></li>
-								<li><a href="https://steamcommunity.com/chat/invite/iWg4oiou">STEAM CHAT</a></li>
-								
+								<li><a href="https://www.instagram.com/matgielski/">FACEBOOK</a></li>
+								<li><a href="https://www.instagram.com/matgielski/">INSTAGRAM</a></li>
+								<li><a href="https://www.instagram.com/matgielski/">DISCORD</a></li>						
 							</ul>
-							<ul>
-								<li><a href="https://blizzard.com/invite/dMgGpdS7Jo">BLIZZARD GROUP</a></li>
-								<li><a href="https://socialclub.rockstargames.com/crew/raxoga">RGSC CREW</a></li>
-								<li><a href="https://account.xbox.com/pl-pl/clubs/profile?clubid=3379880482650395">XBOX CLUB</a></li>
-								<li><a href="https://account.xbox.com/pl-pl/clubs/profile?clubid=3379875201078603">XBOX FH4 CLUB</a></li>
-								<li><a href="https://account.xbox.com/pl-pl/clubs/profile?clubid=3379837552422663">XBOX FH5 CLUB</a></li>
-							</ul>
-							<ul>
-								<li><a href="https://rvlt.gg/4DTT1Bk3">REVOLT</a></li>
-								<li><a href="https://www.guilded.gg/i/LExV817k">GUILDED</a></li>
-								<li><a href="https://qchat.rizon.net/?channels=#RAXOGA">IRC</a></li>
 							</ul>
 						</nav>
 					</header>
